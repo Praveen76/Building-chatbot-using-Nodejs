@@ -1,0 +1,19 @@
+service: invoicebot
+provider:
+  name: aws
+  runtime: nodejs12.x
+  region: ap-south-1
+  iamRoleStatements:
+    - Effect: Allow
+      Action:
+        - ssm:GetParameters
+      Resource: "arn:aws:ssm:ap-south-1:666153081855:parameter/*"  
+functions:
+  invoiceBot:
+    handler: handler.invoiceBot
+    events: 
+      - http:
+          path: invoicebot
+          method: post
+plugins:
+  - serverless-offline
