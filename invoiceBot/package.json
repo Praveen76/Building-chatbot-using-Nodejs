@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "aws-param-store": "^2.0.0",
-    "aws-sdk": "^2.302.0",
+    "aws-sdk": "^2.814.0",
     "fs": "0.0.1-security",
     "nodemailer": "^6.4.2",
     "pdfkit": "^0.11.0"
