@@ -9,11 +9,11 @@ In this project, we'll implement a WhatsApp chatbot to generate invoices and sen
 
 # Directory Structure
 * **invoiceBot :** This directory is the main directory. Inside this you'll find following sub-directories-
-   * **invoiceBot/pdf/index.js:** to handle user's input and process it as per the desired format of the invoice.
-   * **invoiceBot/pdf/getCreds.js:** to get credentials stores on aws cloud.
-   * **invoiceBot/pdf/createInvoice.js:** to create pdf file and send this file to recipients.
-   * **invoiceBot/serverless.yml:** configuration file for aws setup.
-    
+* **invoiceBot/pdf/index.js:** to handle user's input and process it as per the desired format of the invoice.
+* **invoiceBot/pdf/getCreds.js:** to get credentials stores on aws cloud.
+* **invoiceBot/pdf/createInvoice.js:** to create pdf file and send this file to recipients.
+* **invoiceBot/serverless.yml:** configuration file for aws setup.
+
 
 # **Steps involved:**
    * Step 1. Creating an agent on Dialogflow.
