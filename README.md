@@ -1,8 +1,8 @@
 # Building-WhatsApp-chatbot-using-Nodejs
 
-Imagine we’ve a company called “TowardsMachineLearning.Org”. Now this company wishes to use WhatsApp Bot to generate invoices for its client. WhatsApp Bot should also be able to send these invoices to respective clients. 
+Imagine we’ve a company called “TowardsMachineLearning.Org”. Now this company wishes to use WhatsApp Bot to generate invoices for its client. WhatsApp Bot should also be able to send these invoices to respective clients. Click on below image to play the demo video on YouTube.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R120pjX3RJ4" frameborder="0" allowfullscreen></iframe>
+[![WhatsApp-chatbot](https://github.com/Praveen76/Building-chatbot-using-Nodejs/blob/master/invoiceBot/WhatsApp%20chatbot.webp)](https://www.youtube.com/watch?v=R120pjX3RJ4)
 
 
 In this project, we'll implement a WhatsApp chatbot to generate invoices and send them to resepective clients with right details.
