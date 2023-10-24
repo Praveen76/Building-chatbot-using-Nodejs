@@ -2,7 +2,8 @@
 
 Imagine we’ve a company called “TowardsMachineLearning.Org”. Now this company wishes to use WhatsApp Bot to generate invoices for its client. WhatsApp Bot should also be able to send these invoices to respective clients. 
 
-![WhatsApp-chatbot](https://github.com/Praveen76/Building-chatbot-using-Nodejs/blob/master/invoiceBot/WhatsApp%20chatbot.webp)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R120pjX3RJ4" frameborder="0" allowfullscreen></iframe>
+
 
 In this project, we'll implement a WhatsApp chatbot to generate invoices and send them to resepective clients with right details.
 
