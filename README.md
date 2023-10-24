@@ -17,15 +17,15 @@ In this project, we'll implement a WhatsApp chatbot to generate invoices and sen
 
 # **Steps involved:**
    * Step 1. Creating an agent on Dialogflow.
-   * Step2. Building whatsapp Sandbox on Twilio.
+   * Step 2. Building whatsapp Sandbox on Twilio.
    * Step 3. Twilio and Google's DialogFlow integration.
    * Step 4. Reconfigure Welcome and Fall back Intent.
-   * Step5. AWS Setup.
-   * Step6 .The Serverless framework CLI.
-   * Step7.Securely storing secrets.
-   * Step 13. Handle user’s input.
-   * Step 14. Create invoice.
-   * Step 14. Deploy your code on AWS's lambda service.
+   * Step 5. AWS Setup.
+   * Step 6 .The Serverless framework CLI.
+   * Step 7.Securely storing secrets.
+   * Step 8. Handle user’s input.
+   * Step 9. Create invoice.
+   * Step 10. Deploy your code on AWS's lambda service.
 
 
 
@@ -39,7 +39,6 @@ In case of any issue with installation or otherwise, please contact me on [Linke
 
 # Instructions for Installation
 Please install following dependencies before procedding further in the project.
-
 **Dependencies:**
   * aws-param-store: 2.0.0  
   * aws-sdk: 2.302.0  
