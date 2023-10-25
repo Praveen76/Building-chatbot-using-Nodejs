@@ -4,7 +4,7 @@ Imagine we’ve a company called “TowardsMachineLearning.Org”. Now this comp
 
 [![WhatsApp-chatbot](https://github.com/Praveen76/Building-chatbot-using-Nodejs/blob/master/invoiceBot/WhatsApp%20chatbot.webp)](https://www.youtube.com/watch?v=R120pjX3RJ4)
 
-In this project, we'll implement a WhatsApp chatbot to generate invoices and send them to resepective clients with right details.
+In this project, we'll implement a WhatsApp chatbot to generate invoices and send them to respective clients with right details.
 
 # Instructions for Installation
 Please install following dependencies before procedding further in the project.
