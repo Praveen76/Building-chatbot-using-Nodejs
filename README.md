@@ -15,10 +15,6 @@ Please install following dependencies before procedding further in the project.
   * nodemailer: 6.4.2  
   * pdfkit: 0.11.0"
 
-The code has been tested on Windows system. It should work well on other distributions but has not yet been tested.
-
-In case of any issue with installation or otherwise, please contact me on [Linkedin](https://www.linkedin.com/in/praveen-kumar-anwla-49169266/)
-
 # Directory Structure
 * **invoiceBot :** This directory is the main directory. Inside this you'll find following sub-directories-
 * **invoiceBot/pdf/index.js:** to handle user's input and process it as per the desired format of the invoice.
@@ -57,8 +53,14 @@ I've published a comprehensive article on implementation of WhatsApp chatbot usi
    * How to setup WhatSapp sandbox on Twilio.
    * How to handles users' inputs and send appropriate responses.
 
+# License:
+This project is open-source and distributed under the MIT License. Feel free to use and modify the code as needed.
+
+# Issues:
+If you encounter any issues or have suggestions for improvement, please open an issue in the Issues section of this repository.
+
+# Contact:
+The code has been tested on Windows system. It should work well on other distributions but has not yet been tested. In case of any issue with installation or otherwise, please contact me on[Linkedin](https://www.linkedin.com/in/praveen-kumar-anwla-49169266/)
+
 # **About Me:**
 I’ve been working as a Data Scientist for a very long time now. I've worked on various NLP, Machine learning & cutting edge deep learning frameworks to solve business problems. Please feel free to check out my personal wesbsite [TowardsMachineLearning.Org](https://towardsmachinelearning.org/) , where I cover an array of topics from Machine learning, NLP, Deep Learning, etc.
-
-
-
